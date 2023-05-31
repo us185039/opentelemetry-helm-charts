@@ -1,0 +1,12 @@
+dependencies:
+- name: opentelemetry-collector
+  repository: file://subcharts/opentelemetry-collector
+  version: 0.59.1
+- name: opentelemetry-demo
+  repository: file://subcharts/opentelemetry-demo
+  version: 0.22.3
+- name: opentelemetry-operator
+  repository: file://subcharts/opentelemetry-operator
+  version: 0.30.1
+digest: sha256:ad3f360425db3fed8603de3ec96e053263426317ce6ec8998043bdf5f434e8d1
+generated: "2023-05-31T10:49:05.676090026-04:00"
